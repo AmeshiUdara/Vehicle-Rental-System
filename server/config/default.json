@@ -1,0 +1,12 @@
+{
+  "mysql_config": {
+    "host": "localhost",
+    "user": "root",
+    "password": "password",
+    "database": "bo-online"
+  },
+  "jwtSecret": "secret",
+
+  "email": "janahithatours@gmail.com",
+  "password": "password"
+}

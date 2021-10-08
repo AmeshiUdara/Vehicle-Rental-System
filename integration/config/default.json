@@ -1,0 +1,9 @@
+{
+  "mysql_config": {
+    "host": "localhost",
+    "user": "root",
+    "password": "password",
+    "database": "sl-insurers"
+  },
+  "jwtSecret": "secret"
+}

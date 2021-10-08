@@ -1,0 +1,29 @@
+{
+  "name": "intergration",
+  "version": "1.0.0",
+  "description": "Intergration backend application",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server",
+    "server": "nodemon server"
+  },
+  "author": "Gimnath",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "cheerio": "^1.0.0-rc.3",
+    "config": "^3.3.1",
+    "express": "^4.17.1",
+    "express-validator": "^6.4.1",
+    "lodash": "^4.17.15",
+    "moment": "^2.25.1",
+    "mysql": "^2.18.1",
+    "neat-csv": "^5.2.0",
+    "request": "^2.88.2",
+    "requet": "0.0.1-security"
+  },
+  "devDependencies": {
+    "concurrently": "^5.2.0",
+    "nodemon": "^2.0.3"
+  }
+}
